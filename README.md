@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/hiteshbemal1" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshbemal1?logo=twitter&style=for-the-badge" alt="hiteshbemal1" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs,Expressjs,Nextjs**
+- 🌱 I’m currently working on  **Projects**
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **react,javaScript,next,node,express,mysql,development**
 
 - 📫 How to reach me **hiteshbemal24@gmail.com**
 
